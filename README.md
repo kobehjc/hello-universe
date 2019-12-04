@@ -3,3 +3,5 @@ just respository
 
 
 1st add on trail
+
+just for pull
